@@ -53,7 +53,7 @@
     "moment": "^2.29.4",
     "node-fetch": "^3.3.2",
     "nyc": "^17.0.0",
-    "obsidian-dataview": "^0.5.67",
+    "obsidian-dataview": "^0.5.68",
     "postcss-html": "^1.7.0",
     "prettier-plugin-svelte": "^3.2.6",
     "sass": "^1.79.1",
