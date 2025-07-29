@@ -52,7 +52,7 @@
     "knip": "^5.30.2",
     "moment": "^2.29.4",
     "node-fetch": "^3.3.2",
-    "nyc": "^17.0.0",
+    "nyc": "^17.1.0",
     "obsidian-dataview": "^0.5.67",
     "postcss-html": "^1.7.0",
     "prettier-plugin-svelte": "^3.2.6",
